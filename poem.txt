@@ -8,3 +8,4 @@ yellow
 orange
 red
 VIBGYOR-Colors of poem
+purple
